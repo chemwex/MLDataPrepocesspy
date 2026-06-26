@@ -1,4 +1,4 @@
-# MLDataPrepocesspy
+# MLDataPreprocesspy
 This project demonstrates how to process data in a CSV file
 DOCUMENTATION
 numpy (imported as np): A library for numerical operations.
